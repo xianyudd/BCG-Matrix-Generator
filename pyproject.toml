@@ -1,7 +1,7 @@
 [project]
-name = "bcg"
+name = "BCG Matrix Generator"
 version = "0.1.0"
-description = "Add your description here"
+description = "BCG Matrix Generator - A tool for creating Boston Consulting Group matrix visualizations from product sales data"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [

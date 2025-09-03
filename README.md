@@ -78,7 +78,6 @@ P0002,抽纸10包装,22000,12,0.10
 ├── main.py                  # 项目入口点
 ├── pyproject.toml           # 项目配置和依赖
 ├── uv.lock                  # 依赖锁定文件
-├── CLAUDE.md                # Claude Code指导文件
 └── README.md                # 项目说明文件
 ```
 
