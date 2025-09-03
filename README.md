@@ -103,4 +103,4 @@ uv run python scripts/make_bcg.py --in data/bcg_raw.csv --out out
 
 ## 许可证
 
-本项目采用MIT许可证 - 查看[LICENSE](LICENSE)文件了解详情
+本项目采用MIT许可证 - 查看[LICENSE](./LICENSE)文件了解详情
